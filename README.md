@@ -55,19 +55,15 @@ This project demonstrates how to control a servo motor's position using a potent
 2. **Remote Controls:** Adjusting positions or settings remotely.
 3. **Adjustable Mechanisms:** Control mechanisms that require variable positioning, such as camera mounts or valves.
 
-## Support
-
-For any issues or further assistance, please contact us:
-
-- 🌐 [Projects Learner](https://projectslearner.com)
-- 📧 Email: projectslearner@gmail.com
-- 📸 Instagram
-- 📘 Facebook
-- ▶️ YouTube
-- 📘 LinkedIn
-
-Made for you with ❣️ from ProjectsLearner.
-
 ---
 
-By following this guide, you can effectively control a servo motor using a potentiometer, adding a level of precision and interactivity to your Arduino projects.
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
+
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
+
+## Made for you with ❣️ from ProjectsLearner
